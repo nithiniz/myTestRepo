@@ -1,1 +1,2 @@
+some text from branch 1
 some text from branch 2
